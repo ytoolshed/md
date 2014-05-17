@@ -1,3 +1,7 @@
+#Copyright (c) 2011, Yahoo! Inc. All rights reserved.
+
+#This program is free software. You may copy or redistribute it under the same terms as Perl itself. Please see the LICENSE file included with this project for the terms of the Artistic License under which this project is licensed.
+
 package Seco::Class;
 use strict;
 
